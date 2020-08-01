@@ -1,1 +1,5 @@
 # AppChat
+BÀI TIỂU LUẬN KẾT THÚC HỌC PHẦN APP CHAT
+Name : Nguyễn Tiến Đạt
+Class: DC17CTT01
+ID: 17552480201008
